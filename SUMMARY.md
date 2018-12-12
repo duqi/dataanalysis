@@ -1,4 +1,35 @@
-# Summary
 
-* [Introduction](README.md)
+* [第一章 | 认知](chapter1/README.md)
+  - [1.1 世界](chapter1/世界.md)
+  - [1.2 自己](chapter1/自己.md)
+  - [1.3 社会](chapter1/社会.md)
+  - [1.4 公司](chapter1/公司.md)
 
+* [第二章 | 业务](chapter2/README.md)
+  - [2.1 用户](chapter2/用户.md)
+  - [2.2 商户](chapter2/商户.md)
+  - [2.3 产品](chapter2/产品.md)
+  - [2.4 团队](chapter2/团队.md)
+
+* [第三章 | 数据](chapte3/README.md)
+  - [3.1 前世](chapter3/前世.md)
+  - [3.2 今生](chapter3/今生.md)
+  - [3.3 形式](chapter3/形式.md)
+  - [3.4 可视化](chapter3/可视化.md)
+
+* [第四章 | 业务分析](chapte4/README.md)
+  - [4.1 大图](chapter4/大图.md)
+  - [4.2 目标](chapter4/目标.md)
+  - [4.3 策略](chapter4/策略.md)
+  - [4.4 预算](chapter4/预算.md)
+
+* [第五章 | 工具](chapte5/README.md)
+  - [5.1 SQL](chapter5/SQL.md)
+  - [5.2 Excel](chapter5/Excel.md)
+  - [5.3 R语言](chapter5/R.md)
+  - [5.4 Python](chapter5/Python.md)
+
+* [第六章 | 诗外](chapte6/README.md)
+  - [6.1 软技能](chapter6/软技能.md)
+  - [6.2 硬技能](chapter6/硬技能.md)
+  - [6.3 推荐书目](chapter6/推荐书目.md)
